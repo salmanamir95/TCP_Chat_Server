@@ -1,10 +1,3 @@
-Got it — here’s your **full `README.md`** for your TCP Secure Multi-Client Chat Server in C++.
-
-You can literally drop this into your repo as is, and it’ll look polished and client-ready.
-
----
-
-````markdown
 # TCP Secure Multi-Client Chat Server in C++
 
 A lightweight, **multi-threaded TCP chat server** built in C++ that supports multiple clients, secure communication, and real-time message broadcasting.
