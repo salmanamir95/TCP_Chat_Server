@@ -135,10 +135,3 @@ Pull requests are welcome! If you have ideas for improvements, feel free to open
 * BSD/POSIX sockets documentation
 * The C++ community for open-source support
 
-```
-
----
-
-If you want, I can also create a **diagram** showing **how clients and server communicate** so your repo looks extra professional.  
-Would you like me to make that diagram next?
-```
